@@ -6,11 +6,26 @@ I'm a **Computer Science Graduate** and passionate developer from Africa 🇪�
 
 ---
 
+## 🏆 Achievements
+- 🎓 Graduated as one of the top students with a **CGPA of 3.95**
+- 💻 Built and deployed a full-stack **MERN** web application from scratch
+- 🚁 Designed and developed a fully functioning **Arduino-based Quadcopter** with item delivery capabilities
+- 🌍 Deployed my personal portfolio and multiple web projects publicly
+
+---
+
 ## 💡 What I'm Interested In
 - Full-Stack Development (React, Node.js, Express, MongoDB)
 - Embedded Systems and IoT (ESP32, Arduino, NRF24L01, GPS modules)
 - Real-time systems with MQTT & Socket.io
-- Problem-solving, clean UI/UX, and systems automation
+- UI/UX design, automation, and systems thinking
+
+---
+
+## 🔧 What I'm Working On
+- Enhancing my quadcopter's GPS tracking & delivery precision
+- Building admin & pilot dashboards for a delivery management platform
+- Learning advanced backend design patterns and system architecture
 
 ---
 
@@ -27,8 +42,12 @@ I'm a **Computer Science Graduate** and passionate developer from Africa 🇪�
 
 ---
 
+## 📚 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddy4488&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 🔍 Featured Projects
-Here are some of the projects I'm proud of:
 
 - 🔧 [**DDS-Real-user-frontend**](https://github.com/teddy4488/DDS-Real-user-frontend)  
   Real-time delivery dashboard using React, MQTT & Tailwind.
@@ -57,5 +76,12 @@ Here are some of the projects I'm proud of:
 
 ---
 
-> "I love building things that make life easier, smarter, and more connected."
+## 🔥 GitHub Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=teddy4488&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+> “I love building things that make life easier, smarter, and more connected.”  
+> — Teddy 🌍
 
