@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tewodros (Teddy) Abere!
 
-I'm a **Computer Science student** and passionate developer from Africa 🇪🇹  
+I'm a **Computer Science Graduate** and passionate developer from Africa 🇪🇹  
 🔭 Currently exploring the exciting worlds of **IoT, Full-Stack Web Development, and Embedded Systems**  
 🚀 Always learning, always building — open to collaborations and freelance opportunities!
 
