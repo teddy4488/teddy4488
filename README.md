@@ -23,8 +23,7 @@ I'm a **Computer Science Graduate** and passionate developer from Africa 🇪�
 ---
 
 ## 🔧 What I'm Working On
-- Enhancing my quadcopter's GPS tracking & delivery precision
-- Building admin & pilot dashboards for a delivery management platform
+- Learning deeply about aerodynamics and avionics
 - Learning advanced backend design patterns and system architecture
 
 ---
@@ -91,6 +90,6 @@ I'm a **Computer Science Graduate** and passionate developer from Africa 🇪�
 
 ---
 
-> “I love building things that make life easier, smarter, and more connected.”  
+> “Challenging oneself is the very thing that drives a man to innovative ideas”  
 > — Teddy 🌍
 
