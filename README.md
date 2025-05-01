@@ -2,10 +2,10 @@
 
 I'm a **Computer Science Graduate** and passionate developer from Africa 🇪🇹  
 🔭 Currently exploring the exciting worlds of **IoT, Full-Stack Web Development, and Embedded Systems**  
-🚀 Always learning, always building — open to collaborations and freelance opportunities!
+🚀 Always learning, always building — open to collaborations and freelance opportunities!  
+🌐 [My Portfolio](https://teddy4488.github.io/personal_portfolio/) | 💼 [LinkedIn Profile](https://linkedin.com/in/tewodros-abere-)
 
 ---
-
 ## 🏆 Achievements
 - 🎓 Graduated as one of the top students with a **CGPA of 3.95**
 - 💻 Built and deployed a full-stack **MERN** web application from scratch
